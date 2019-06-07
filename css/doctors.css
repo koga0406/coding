@@ -1,0 +1,129 @@
+/*
+* top.css
+*
+*/
+@media (min-width: 768px) {
+  .box-01 {
+    top: 1926px;
+    right: -387px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .box-01 {
+    top: 192vw;
+    right: -40vw;
+  }
+}
+
+@media (min-width: 768px) {
+  .box-02 {
+    top: 683px;
+    left: -392px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .box-02 {
+    top: 581.33333vw;
+    left: -45.33333vw;
+  }
+}
+
+@media (min-width: 768px) {
+  .service {
+    margin-top: 71px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .service {
+    margin-top: 26.93333vw;
+  }
+}
+
+@media (min-width: 768px) {
+  .service_heading {
+    margin-bottom: 87px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .service_heading {
+    margin: 0 auto;
+    margin-bottom: 9.6vw; 
+    width: 70.4vw;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .servicetxt {
+    margin: 0 auto; 
+    width: 84vw;
+  }
+}
+
+@media (min-width: 768px) {
+  .serviceano {
+    margin-top: 50px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .serviceano {
+    margin: 0 auto; 
+    width: 82.66667vw;
+  }
+}
+
+@media (min-width: 768px) {
+  .servicetxt2 {
+    margin-top: 151px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .servicetxt2 {
+    margin: 21.86667vw auto 0; 
+    width: 84vw;
+  }
+}
+
+@media (min-width: 768px) {
+  .servicetxt3 {
+    margin-top: 80px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .servicetxt3 {
+    margin: 20vw auto 0; 
+    width: 84vw;
+  }
+}
+
+@media (min-width: 768px) {
+  .flow {
+    margin-top: 105px;
+  }
+}
+
+@media (min-width: 768px) {
+  .flow_heading {
+    margin-bottom: 15px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .flow_heading {
+    margin: 20vw auto 5.33333vw; 
+    width: 41.6vw;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .flow_graf {
+    margin: 0 auto; 
+    width: 82.66667vw;
+  }
+}

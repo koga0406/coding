@@ -1,0 +1,111 @@
+/*
+* top.css
+*
+*/
+@media (min-width: 768px) {
+  .box-01 {
+    top: 2040px;
+    right: -387px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .box-01 {
+    top: 353.6vw;
+    right: -40vw;
+  }
+}
+
+@media (min-width: 768px) {
+  .box-02 {
+    top: 694px;
+    left: -392px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .box-02 {
+    top: 690.66667vw;
+    left: -40vw;
+  }
+}
+
+@media (min-width: 768px) {
+  .service {
+    margin-top: 71px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .service {
+    margin-top: 26.93333vw;
+  }
+}
+
+@media (min-width: 768px) {
+  .service_heading {
+    margin-bottom: 47px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .service_heading {
+    margin: 0 auto;
+    margin-bottom: 9.6vw; 
+    width: 48vw;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .service_grap {
+    margin: 0 auto; 
+    width: 82.66667vw;
+  }
+}
+
+@media (min-width: 768px) {
+  .flow {
+    margin-top: 138px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .flow {
+    margin-top: 40.8vw;
+  }
+}
+
+@media (min-width: 768px) {
+  .flow_heading {
+    margin-bottom: 32px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .flow_heading {
+    margin: 0 auto;
+    margin-bottom: 4.26667vw; 
+    width: 38.4vw;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .flow_hyou {
+    margin: 0 auto; 
+    width: 82.66667vw;
+  }
+}
+
+@media (min-width: 768px) {
+  .merit {
+    margin-top: 130px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .merit {
+    margin: 0 auto;
+    margin-top: 22.13333vw; 
+    width: 82.93333vw;
+  }
+}

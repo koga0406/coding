@@ -1,0 +1,88 @@
+/*
+* top.css
+*
+*/
+@media (min-width: 768px) {
+  .box-01 {
+    top: 1534px;
+    right: -150px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .box-01 {
+    top: 310.93333vw;
+    right: -40vw;
+  }
+}
+
+@media (min-width: 768px) {
+  .box-02 {
+    top: 2354px;
+    left: -192px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .box-02 {
+    top: 498.66667vw;
+    left: -40vw;
+  }
+}
+
+@media (min-width: 768px) {
+  .text {
+    margin-top: 100px;
+    text-align: center; 
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .text {
+    margin: 16vw auto 0; 
+    width: 89.6vw;
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 768px) {
+  .doc {
+    margin-top: 138px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .doc {
+    margin-top: 18.66667vw;
+    margin-right: 2.4vw;
+    margin-left: 2.4vw;
+  }
+}
+
+@media (min-width: 768px) {
+  .rec {
+    margin-top: 260px;
+    text-align: right;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .rec {
+    margin-top: 26.66667vw;
+    margin-right: 2.4vw;
+    margin-left: 2.4vw;
+  }
+}
+
+@media (min-width: 768px) {
+  .sys {
+    margin-top: 259px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .sys {
+    margin-top: 60.53333vw;
+  }
+}
