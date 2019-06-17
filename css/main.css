@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /*
 * main.css
 *
@@ -446,6 +446,26 @@ a[href^="tel:"]:hover {
   padding-left: 34%;
   font-family: Open Sans;
 }
+
+/* KOGA     
+    padding-left: 6%;で見た感じ配置的には大丈夫そうですが間違ってる気しかしません
+    .textと同じように@mediaで配置を調整するんじゃないかと思っていますがそこまで手付かず。
+
+*/
+
+.text-title_for {
+    color: #99cc00;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    display: inline-block;
+    margin: 0 auto;
+    padding-left: 6%;
+    font-family: Open Sans;
+}
+
+/*----------------------------------------------------------- KOGA */
+
 .text-title:before {
   content: '';
   position: absolute;
@@ -459,6 +479,8 @@ a[href^="tel:"]:hover {
   background-color: #99cc00;/*線の色*/
   border-radius: 2px;
 }
+
+
 .all-news{
   float: right;
   color: #99cc00;
@@ -512,6 +534,25 @@ a[href^="tel:"]:hover {
   float: right;
   color: #707070;
 }
+
+
+/* KOGA 
+    働き方をお考えの先生へ
+    優秀な人材の採用・定着をお考えの人事担当者様へ
+    が下の文章より大きく見えたため
+    font-size: 15px;だけ変更してかけています。
+    行間が見本より取れていないのでこちらも間違えてる気がします。
+
+*/
+
+.text-okanngaeno {
+    font-family: '源ノ角ゴシック JP';
+    font-size: 15px;
+    letter-spacing: 1.2px;
+}
+
+
+/*----------------------------------------------------------- KOGA */
 
 .text{
   font-family: '源ノ角ゴシック JP';
